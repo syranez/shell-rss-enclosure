@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/resources/xsl/videopodcast.xsl" type="text/xsl"?>
+<rss version="2.0"
+xmlns:content="http://purl.org/rss/1.0/modules/content/"
+xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Tagesschau vor 20 Jahren (960x544)</title>
+<link>http://www.tagesschau.de</link>
+<description>Die Tagesschau vor 20 Jahren als Video-Podcast (Videoauflösung 960x544)</description>
+<language>de</language>
+<copyright>ARD-aktuell / tagesschau.de</copyright>
+<pubDate>Sat, 28 Jun 2014 21:55:19 +0200</pubDate>
+<lastBuildDate>Sat, 28 Jun 2014 21:55:19 +0200</lastBuildDate>
+<image>
+<url>http://www.tagesschau.de/image/podcast/tsv20-1984-600.jpg</url>
+<title>tagesschau.de</title>
+<link>http://www.tagesschau.de</link>
+</image>
+<itunes:image href="http://www.tagesschau.de/image/podcast/tsv20-1984-600.jpg" />
+<managingEditor>redaktion@tagesschau.de</managingEditor>
+<webMaster>webmaster@tagesschau.de</webMaster>
+<generator>manual</generator>
+<ttl>360</ttl>
+<category>News</category>
+<itunes:owner>
+<itunes:name>Redaktion tagesschau.de</itunes:name>
+<itunes:email>redaktion@tagesschau.de</itunes:email>
+</itunes:owner>
+<itunes:category text="News &amp; Politics" />
+<itunes:author>ARD-aktuell</itunes:author>
+<itunes:explicit>No</itunes:explicit>
+<itunes:keywords>Nachrichten, Inland, Ausland, Wirtschaft, Kultur, Reportagen, Berichte, News, Tagesthemen, Tageschau, Aktuelles, Neues, Neuigkeiten, Hintergrund, Hintergrundinformationen, Inneres, Politik, Innenpolitik, Aussenpolitik, Videos</itunes:keywords>
+<itunes:subtitle>Die Tagesschau vor 20 Jahren als Video-Podcast (Videoauflösung 960x544)</itunes:subtitle>
+<item>
+<title>27.06.2014 - tagesschau vor 20 Jahren</title>
+<description>27.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-2936~_v-videowebm.jpg" />
+<pubDate>Fri, 27 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0620/TV-20140620-0342-5101.webl.h264.mp4" length="200409231" type="video/mp4" />
+<guid isPermaLink="false">TV-20140620-0342-5101-VL</guid>
+</item>
+<item>
+<title>26.06.2014 - tagesschau vor 20 Jahren</title>
+<description>26.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-2934~_v-videowebm.jpg" />
+<pubDate>Thu, 26 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0620/TV-20140620-0312-3401.webl.h264.mp4" length="195510809" type="video/mp4" />
+<guid isPermaLink="false">TV-20140620-0312-3401-VL</guid>
+</item>
+<item>
+<title>25.06.2014 - tagesschau vor 20 Jahren</title>
+<description>25.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-2938~_v-videowebm.jpg" />
+<pubDate>Wed, 25 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0620/TV-20140620-0243-4701.webl.h264.mp4" length="190887165" type="video/mp4" />
+<guid isPermaLink="false">TV-20140620-0243-4701-VL</guid>
+</item>
+<item>
+<title>24.06.2014 - tagesschau vor 20 Jahren</title>
+<description>24.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/sendungsbild-1190~_v-videowebm.jpg" />
+<pubDate>Tue, 24 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0612/TV-20140612-0207-4301.webl.h264.mp4" length="233485150" type="video/mp4" />
+<guid isPermaLink="false">TV-20140612-0207-4301-VL</guid>
+</item>
+<item>
+<title>23.06.2014 - tagesschau vor 20 Jahren</title>
+<description>23.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-3150~_v-videowebm.jpg" />
+<pubDate>Mon, 23 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0621/TV-20140621-0355-2801.webl.h264.mp4" length="203749532" type="video/mp4" />
+<guid isPermaLink="false">TV-20140621-0355-2801-VL</guid>
+</item>
+<item>
+<title>22.06.2014 - tagesschau vor 20 Jahren</title>
+<description>22.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/sendungsbild-1188~_v-videowebm.jpg" />
+<pubDate>Sun, 22 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0612/TV-20140612-0206-3601.webl.h264.mp4" length="250094545" type="video/mp4" />
+<guid isPermaLink="false">TV-20140612-0206-3601-VL</guid>
+</item>
+<item>
+<title>21.06.2014 - tagesschau vor 20 Jahren</title>
+<description>21.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-978~_v-videowebm.jpg" />
+<pubDate>Sat, 21 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0611/TV-20140611-0246-3901.webl.h264.mp4" length="236614432" type="video/mp4" />
+<guid isPermaLink="false">TV-20140611-0246-3901-VL</guid>
+</item>
+<item>
+<title>20.06.2014 - tagesschau vor 20 Jahren</title>
+<description>20.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-976~_v-videowebm.jpg" />
+<pubDate>Fri, 20 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0611/TV-20140611-0244-3801.webl.h264.mp4" length="233283806" type="video/mp4" />
+<guid isPermaLink="false">TV-20140611-0244-3801-VL</guid>
+</item>
+<item>
+<title>19.06.2014 - tagesschau vor 20 Jahren</title>
+<description>19.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-528~_v-videowebm.jpg" />
+<pubDate>Thu, 19 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0607/TV-20140607-0147-4101.webl.h264.mp4" length="240857844" type="video/mp4" />
+<guid isPermaLink="false">TV-20140607-0147-4101-VL</guid>
+</item>
+<item>
+<title>18.06.2014 - tagesschau vor 20 Jahren</title>
+<description>18.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-526~_v-videowebm.jpg" />
+<pubDate>Wed, 18 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0607/TV-20140607-0150-0401.webl.h264.mp4" length="252844936" type="video/mp4" />
+<guid isPermaLink="false">TV-20140607-0150-0401-VL</guid>
+</item>
+<item>
+<title>17.06.2014 - tagesschau vor 20 Jahren</title>
+<description>17.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-524~_v-videowebm.jpg" />
+<pubDate>Tue, 17 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0607/TV-20140607-0226-4201.webl.h264.mp4" length="245591550" type="video/mp4" />
+<guid isPermaLink="false">TV-20140607-0226-4201-VL</guid>
+</item>
+<item>
+<title>16.06.2014 - tagesschau vor 20 Jahren</title>
+<description>16.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-294~_v-videowebm.jpg" />
+<pubDate>Mon, 16 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0606/TV-20140606-0353-3001.webl.h264.mp4" length="242019145" type="video/mp4" />
+<guid isPermaLink="false">TV-20140606-0353-3001-VL</guid>
+</item>
+<item>
+<title>15.06.2014 - tagesschau vor 20 Jahren</title>
+<description>15.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild-296~_v-videowebm.jpg" />
+<pubDate>Sun, 15 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0606/TV-20140606-0320-4401.webl.h264.mp4" length="231282965" type="video/mp4" />
+<guid isPermaLink="false">TV-20140606-0320-4401-VL</guid>
+</item>
+<item>
+<title>14.06.2014 - tagesschau vor 20 Jahren</title>
+<description>14.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild849238~_v-videowebm.jpg" />
+<pubDate>Sat, 14 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0603/TV-20140603-0255-1701.webl.h264.mp4" length="247371054" type="video/mp4" />
+<guid isPermaLink="false">TV-20140603-0255-1701-VL</guid>
+</item>
+<item>
+<title>13.06.2014 - tagesschau vor 20 Jahren</title>
+<description>13.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild849240~_v-videowebm.jpg" />
+<pubDate>Fri, 13 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0603/TV-20140603-0300-5101.webl.h264.mp4" length="351185747" type="video/mp4" />
+<guid isPermaLink="false">TV-20140603-0300-5101-VL</guid>
+</item>
+<item>
+<title>12.06.2014 - tagesschau vor 20 Jahren</title>
+<description>12.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848692~_v-videowebm.jpg" />
+<pubDate>Thu, 12 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0530/TV-20140530-0349-5301.webl.h264.mp4" length="229081434" type="video/mp4" />
+<guid isPermaLink="false">TV-20140530-0349-5301-VL</guid>
+</item>
+<item>
+<title>11.06.2014 - tagesschau vor 20 Jahren</title>
+<description>11.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848694~_v-videowebm.jpg" />
+<pubDate>Wed, 11 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0530/TV-20140530-0344-5201.webl.h264.mp4" length="258450975" type="video/mp4" />
+<guid isPermaLink="false">TV-20140530-0344-5201-VL</guid>
+</item>
+<item>
+<title>10.06.2014 - tagesschau vor 20 Jahren</title>
+<description>10.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848696~_v-videowebm.jpg" />
+<pubDate>Tue, 10 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0530/TV-20140530-0342-1701.webl.h264.mp4" length="222984163" type="video/mp4" />
+<guid isPermaLink="false">TV-20140530-0342-1701-VL</guid>
+</item>
+<item>
+<title>09.06.2014 - tagesschau vor 20 Jahren</title>
+<description>09.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848566~_v-videowebm.jpg" />
+<pubDate>Mon, 09 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0529/TV-20140529-0410-0901.webl.h264.mp4" length="228728421" type="video/mp4" />
+<guid isPermaLink="false">TV-20140529-0410-0901-VL</guid>
+</item>
+<item>
+<title>08.06.2014 - tagesschau vor 20 Jahren</title>
+<description>08.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848564~_v-videowebm.jpg" />
+<pubDate>Sun, 08 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0529/TV-20140529-0346-1601.webl.h264.mp4" length="235564389" type="video/mp4" />
+<guid isPermaLink="false">TV-20140529-0346-1601-VL</guid>
+</item>
+<item>
+<title>07.06.2014 - tagesschau vor 20 Jahren</title>
+<description>07.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848562~_v-videowebm.jpg" />
+<pubDate>Sat, 07 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0529/TV-20140529-0316-4901.webl.h264.mp4" length="224649647" type="video/mp4" />
+<guid isPermaLink="false">TV-20140529-0316-4901-VL</guid>
+</item>
+<item>
+<title>06.06.2014 - tagesschau vor 20 Jahren</title>
+<description>06.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848560~_v-videowebm.jpg" />
+<pubDate>Fri, 06 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0529/TV-20140529-0342-2801.webl.h264.mp4" length="234381227" type="video/mp4" />
+<guid isPermaLink="false">TV-20140529-0342-2801-VL</guid>
+</item>
+<item>
+<title>05.06.2014 - tagesschau vor 20 Jahren</title>
+<description>05.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848362~_v-videowebm.jpg" />
+<pubDate>Thu, 05 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0528/TV-20140528-0241-1501.webl.h264.mp4" length="224215416" type="video/mp4" />
+<guid isPermaLink="false">TV-20140528-0241-1501-VL</guid>
+</item>
+<item>
+<title>04.06.2014 - tagesschau vor 20 Jahren</title>
+<description>04.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848360~_v-videowebm.jpg" />
+<pubDate>Wed, 04 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0528/TV-20140528-0221-2401.webl.h264.mp4" length="243516344" type="video/mp4" />
+<guid isPermaLink="false">TV-20140528-0221-2401-VL</guid>
+</item>
+<item>
+<title>03.06.2014 - tagesschau vor 20 Jahren</title>
+<description>03.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848358~_v-videowebm.jpg" />
+<pubDate>Tue, 03 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0528/TV-20140528-0201-0301.webl.h264.mp4" length="225482686" type="video/mp4" />
+<guid isPermaLink="false">TV-20140528-0201-0301-VL</guid>
+</item>
+<item>
+<title>02.06.2014 - tagesschau vor 20 Jahren</title>
+<description>02.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848356~_v-videowebm.jpg" />
+<pubDate>Mon, 02 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0528/TV-20140528-0127-3901.webl.h264.mp4" length="234154522" type="video/mp4" />
+<guid isPermaLink="false">TV-20140528-0127-3901-VL</guid>
+</item>
+<item>
+<title>01.06.2014 - tagesschau vor 20 Jahren</title>
+<description>01.06.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild848354~_v-videowebm.jpg" />
+<pubDate>Sun, 01 Jun 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0528/TV-20140528-0335-4401.webl.h264.mp4" length="226069894" type="video/mp4" />
+<guid isPermaLink="false">TV-20140528-0335-4401-VL</guid>
+</item>
+<item>
+<title>31.05.2014 - tagesschau vor 20 Jahren</title>
+<description>31.05.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild847532~_v-videowebm.jpg" />
+<pubDate>Sat, 31 May 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0523/TV-20140523-0318-0301.webl.h264.mp4" length="239039098" type="video/mp4" />
+<guid isPermaLink="false">TV-20140523-0318-0301-VL</guid>
+</item>
+<item>
+<title>30.05.2014 - tagesschau vor 20 Jahren</title>
+<description>30.05.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild847530~_v-videowebm.jpg" />
+<pubDate>Fri, 30 May 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0523/TV-20140523-0307-4601.webl.h264.mp4" length="233417270" type="video/mp4" />
+<guid isPermaLink="false">TV-20140523-0307-4601-VL</guid>
+</item>
+<item>
+<title>29.05.2014 - tagesschau vor 20 Jahren</title>
+<description>29.05.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild847528~_v-videowebm.jpg" />
+<pubDate>Thu, 29 May 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0523/TV-20140523-0308-5601.webl.h264.mp4" length="266964700" type="video/mp4" />
+<guid isPermaLink="false">TV-20140523-0308-5601-VL</guid>
+</item>
+<item>
+<title>28.05.2014 - tagesschau vor 20 Jahren</title>
+<description>28.05.2014 - tagesschau vor 20 Jahren</description>
+<itunes:image href="http://www.tagesschau.de/multimedia/bilder/sendungsbild847300~_v-videowebm.jpg" />
+<pubDate>Wed, 28 May 2014 22:45:00 +0200</pubDate>
+<enclosure url="http://media.tagesschau.de/video/2014/0522/TV-20140522-0404-0601.webl.h264.mp4" length="227018440" type="video/mp4" />
+<guid isPermaLink="false">TV-20140522-0404-0601-VL</guid>
+</item>
+</channel>
+</rss>
